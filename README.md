@@ -12,7 +12,7 @@ This project focuses on optimizing lead conversion strategies for X Education, a
 
  - PPT Presentation: Visual summary of the project approach, insights, and recommendations.
  - Brief Summary Report: 500-word document outlining project objectives, methodology, and key learnings.
- - Python Files: Data_cleaning, EDA, Model_building.
+ - Python Files: Source/ Data_cleaning, EDA, Model_building.
  
  ## How to Use
 
